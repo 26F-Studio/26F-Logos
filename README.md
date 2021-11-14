@@ -20,6 +20,10 @@ These logos are representations of 26F Studio. To fit our logos into a variety o
 
 
 
+Please notice that Pixelmator Pro is only provided on macOS. In other platforms (or on the GitHub) source code pages the `.pxd` files will be displayed as folders. 
+
+请注意，Pixelmator Pro仅在macOS上提供。在其他平台（以及GitHub的源码页面上），`.pxd`文件会显示为文件夹。
+
 
 
 Feel free to use them to represent 26F Studio in social media etc., but please check the descriptions below:
