@@ -1,5 +1,9 @@
 # 26F-Logos
 
+# ATTENTION: THE LOGO FILES IN THIS REPOSITORY ARE NO LONGER IN USE. A URL TO A FIGMA DESIGN FILE CONTAINING THE LOGO WILL BE POSTED SOON.
+
+# 注意: 此仓库中的logo图片已不再被使用. 包含最新logo的Figma文件的URL将会在不久后发布.
+
 *This documents is provided in English and Simplified Chinese.*
 
 *此文档以英文和简体中文两种语言提供。*
