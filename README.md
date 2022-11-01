@@ -1,8 +1,8 @@
 # 26F-Logos
 
-# ATTENTION: THE LOGO FILES IN THIS REPOSITORY ARE NO LONGER IN USE. A URL TO A FIGMA DESIGN FILE CONTAINING THE LOGO WILL BE POSTED SOON.
-
-# 注意: 此仓库中的logo图片已不再被使用. 包含最新logo的Figma文件的URL将会在不久后发布.
+# ARCHIVED: THE LOGO FILES IN THIS REPOSITORY ARE NO LONGER IN USE. FOR THE LATEST LOGOS, USE THIS URL TO THE FIGMA DESIGN FILE:
+# 注意: 此仓库中的logo图片已不再被使用. 若想获得最新的logo, 请访问:
+# <https://www.figma.com/file/ZwhcZlQGEh2DBz1tUsMlHf/26F-Logos?node-id=0%3A1>
 
 *This documents is provided in English and Simplified Chinese.*
 
